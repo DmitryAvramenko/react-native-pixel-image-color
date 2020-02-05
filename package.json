@@ -1,0 +1,34 @@
+{
+  "name": "react-native-get-pixel",
+  "version": "0.0.5",
+  "summary": "A react native PDF view component",
+  "description": "Returns the  color from an image at a given coordinate.",
+  "homepage": "https://github.com/DmitryAvramenko/react-native-pixel-image-color",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DmitryAvramenko/react-native-pixel-image-color.git"
+  },
+  "files": [
+    "android",
+    "ios",
+    "react-native-get-pixel.podspec"
+  ],
+  "keywords": [
+    "react-native",
+    "react",
+    "android",
+    "ios",
+    "images",
+    "image",
+    "image-resizer",
+    "scaling",
+    "scale",
+    "resize"
+  ],
+  "peerDependencies": {
+    "react-native": ">=v0.14.2"
+  },
+  "author": "Dmitry Avramenko <avramenko150@gmail.com>",
+  "license": "MIT",
+  "nativePackage": true
+}
